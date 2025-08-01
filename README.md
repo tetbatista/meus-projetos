@@ -1,1 +1,15 @@
-# meus-projetos
+# 📁 Meus Projetos
+
+Este repositório reúne projetos que desenvolvi enquanto aprofundo meus conhecimentos em linguagens voltadas para o desenvolvimento backend.
+
+---
+
+### 🧾 [API - QR Code](https://github.com/tetbatista/api-qr-code)
+> API simples e funcional para gerar QR Codes a partir de qualquer texto ou link.
+
+---
+
+### 💳 [API - Pagamento Mercado Pago](https://github.com/tetbatista/api-pagamento-mercado-pago)
+> API que permite criar pagamentos, escutar notificações via Webhook e armazenar informações essenciais no DynamoDB da AWS.
+---
+
