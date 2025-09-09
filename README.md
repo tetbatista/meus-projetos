@@ -15,4 +15,9 @@ Este repositório reúne projetos que desenvolvi enquanto aprofundo meus conheci
 
 ### 🗑️ [API - Limpar Gmail](https://github.com/tetbatista/api-gmail-cleaner)
 > API que permite limpar rapidamente emails do Gmail, movento para a lixeira com filtros personalizados.
+---
+
+### 🛠 [Challenge - Um bilhão de linhas](https://github.com/tetbatista/one-billion-row-challenge)
+> Desafio que processa 1 bilhão de linhas da forma mais eficiente possível.
+---
 
