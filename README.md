@@ -13,3 +13,6 @@ Este repositório reúne projetos que desenvolvi enquanto aprofundo meus conheci
 > API que permite criar pagamentos, escutar notificações via Webhook e armazenar informações essenciais no DynamoDB da AWS.
 ---
 
+### 🗑️ [API - Limpar Gmail](https://github.com/tetbatista/api-gmail-cleaner)
+> API que permite limpar rapidamente emails do Gmail, movento para a lixeira com filtros personalizados.
+
